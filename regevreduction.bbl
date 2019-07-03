@@ -1,0 +1,43 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{CKMS16}
+
+\bibitem[BLP{\etalchar{+}}13]{DBLP:journals/corr/BrakerskiLPRS13}
+Zvika Brakerski, Adeline Langlois, Chris Peikert, Oded Regev, and Damien
+  Stehl{\'{e}}.
+\newblock Classical hardness of learning with errors.
+\newblock {\em CoRR}, abs/1306.0281, 2013.
+
+\bibitem[CKMS16]{DBLP:conf/mycrypt/ChatterjeeKMS16}
+Sanjit Chatterjee, Neal Koblitz, Alfred Menezes, and Palash Sarkar.
+\newblock Another look at tightness {II:} practical issues in cryptography.
+\newblock In {\em Paradigms in Cryptology - Mycrypt 2016. Malicious and
+  Exploratory Cryptology - Second International Conference, Mycrypt 2016, Kuala
+  Lumpur, Malaysia, December 1-2, 2016, Revised Selected Papers}, pages 21--55,
+  2016.
+
+\bibitem[GG00]{DBLP:journals/jcss/GoldreichG00}
+Oded Goldreich and Shafi Goldwasser.
+\newblock On the limits of nonapproximability of lattice problems.
+\newblock {\em J. Comput. Syst. Sci.}, 60(3):540--563, 2000.
+\newblock Preliminary version in STOC 1998.
+
+\bibitem[Pei08]{DBLP:journals/eccc/Peikert08}
+Chris Peikert.
+\newblock Public-key cryptosystems from the worst-case shortest vector problem.
+\newblock {\em Electronic Colloquium on Computational Complexity (ECCC)},
+  15(100), 2008.
+
+\bibitem[Reg09]{DBLP:journals/jacm/Regev09}
+Oded Regev.
+\newblock On lattices, learning with errors, random linear codes, and
+  cryptography.
+\newblock {\em J. ACM}, 56(6):1--40, 2009.
+\newblock Preliminary version in STOC 2005.
+
+\bibitem[SS19]{cryptoeprint:2019:728}
+Palash Sarkar and Subhadip Singha.
+\newblock Verifying solutions to lwe with implications for concrete security.
+\newblock Cryptology ePrint Archive, Report 2019/728, 2019.
+\newblock \url{https://eprint.iacr.org/2019/728}.
+
+\end{thebibliography}

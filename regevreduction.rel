@@ -1,0 +1,80 @@
+;; RefTeX parse info file
+;; File: /Users/jma7/Documents/Research/RegevReduction/regevreduction.tex
+;; User: jma7 (Alperin-Sheriff)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi t)
+
+(bibview-cache ("cryptoeprint:2019:728" . "Palash Sarkar & Subhadip Singha 2019, Verify. Solut. LWE with Impl"))
+
+(master-dir . "/Users/jma7/Documents/Research/RegevReduction/")
+
+(label-numbers)
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/regevreduction.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/head.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/bbhead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/bbhead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/lrhead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/lrhead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/vecmathead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/vecmathead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/thmhead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/thmhead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/comphead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/comphead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/latthead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/latthead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/crypthead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/crypthead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/mathabxhead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/mathabxhead.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/noteshead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/noteshead.tex")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/head.tex")
+
+(bof "/Users/jma7/Documents/Research/RegevReduction/intro.tex")
+
+(toc "toc" "    1 Notes on the Regev Reduction Verification Step" "/Users/jma7/Documents/Research/RegevReduction/intro.tex" nil 2 "1" "\\section{Notes on the Regev Reduction Verification Step}" 1)
+
+(toc "toc" "      1.1 Towards Relevance for NIST Candidate Algorithms" "/Users/jma7/Documents/Research/RegevReduction/intro.tex" nil 3 "1.1" "\\subsection{Towards Relevance for NIST Candidate Algorithms}" 370)
+
+("sec:towards-relev-nist" "s" nil "/Users/jma7/Documents/Research/RegevReduction/intro.tex" nil "")
+
+(toc "toc" "      1.1 Towards Relevance for NIST Candidate Algorithms" "/Users/jma7/Documents/Research/RegevReduction/intro.tex" nil 3 "1.1" "\\subsection{Towards Relevance for NIST Candidate Algorithms}" 370)
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/intro.tex")
+
+(toc "toc" "      * Acknowledgments" "/Users/jma7/Documents/Research/RegevReduction/regevreduction.tex" nil 2 "  *" "\\section*{Acknowledgments}" 1644)
+
+(bib "/Users/jma7/Documents/Research/RegevReduction/lattices.bib" "/Users/jma7/Documents/Research/RegevReduction/crypto.bib" "/Users/jma7/Documents/Research/RegevReduction/ibe.bib" "/Users/jma7/Documents/Research/RegevReduction/fhe.bib" "/Users/jma7/Documents/Research/RegevReduction/numtheory.bib")
+
+(eof "/Users/jma7/Documents/Research/RegevReduction/regevreduction.tex")
+))
+

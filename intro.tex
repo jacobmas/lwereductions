@@ -1,0 +1,32 @@
+\section{Introduction}
+
+In Regev's celebrated reduction of worst-case lattice problems to
+LWE~\cite{DBLP:journals/jacm/Regev09}, the (lack of) tightness
+stemming from Lemma 3.6 (Verifying solutions
+of LWE), has recently been claimed by Sarkar and Singha
+in~\cite{cryptoeprint:2019:728} to be the cause of most of the loss of
+tightness for dimensions from $2$ to $187849$, where it is computed to
+be so overwhelmingly large that Regev's reduction is completely vacuous for all
+parameters in that range. 
+
+\subsection{Previous Work on Tightness}
+\label{sec:prev-work}
+A previous work by Chatterjee et
+al~\cite{DBLP:conf/mycrypt/ChatterjeeKMS16} showed that, for
+modulus $q=n^2$, and noise parameter $\alpha=1/(\sqrt{n}\log^{2}(n))$
+(as set by Regev in his proposed decision $\lwe$-based public key cryptosystem),
+Regev's reduction has, for an algorithm given $m=n^{c}$ samples, that
+solves decision $\lwe$ for a fraction $1/n^{d_1}$ of all $\vecs \in
+\Z_q^{n}$ with advantage at least $1/n^{d_2}$, has an enormous
+tightness gap in solving $\sivp$, namely 
+\[O(n^{11+c+d_1+2d_2})\]
+
+While this gives a tightness gap far larger than the cost of the
+best-known algorithms in solving $\sivp$ for commonly used
+parameters\jnote{TODO: cite},  
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "regevreduction"
+%%% End: 
